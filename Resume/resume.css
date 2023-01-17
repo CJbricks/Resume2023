@@ -1,0 +1,106 @@
+
+html {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Sofia Sans', sans-serif;
+}
+
+.center-body {
+    width: 82%;
+    height: 100%;
+    background-color: whitesmoke;
+    border: 1px solid black;
+    padding-left: 3%;
+    margin-left: 10%;
+    line-height: 1.5;
+    display: inline-flex;
+    flex-wrap: wrap;
+    
+}
+
+
+
+.cover-body {
+    padding-left: 2%;
+    width: 90%;
+    display: inline-flex;
+    flex-wrap: wrap;
+    font-size: 16px;
+}
+.side-header, .side-under {
+    float: right;
+    padding-right: 5%;
+    
+    
+}
+
+.education-body {
+   /* background-color: red; */
+    width: 46%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+
+.experience-body {
+  /*  background-color: blue; */
+    height:15%;
+    width: 46%;
+    padding-left: 2%;
+    padding-right: 2%;
+    
+}
+
+
+.curriculum {
+  /*  background-color: violet; */
+    width: 46%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.portfolio {
+   /* background-color: green; */
+    width: 46%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+p {
+    font-size: 14px;
+}
+
+.icon-ig {
+    width: 5%;
+    margin-right: 5%;
+    
+}
+
+.icon-gh {
+    width: 5%;
+    margin-right: 5%;
+    
+}
+
+.icon-sq {
+    width: 5%;
+}
+
+.icons {
+    
+    margin-left: 45%;
+    margin-bottom: 2%;
+}
+
+.languages {
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: #34BFC4;
+}
+
+a:hover {
+    cursor: pointer;
+    color: #86c2c4;
+}

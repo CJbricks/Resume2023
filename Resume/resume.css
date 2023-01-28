@@ -104,3 +104,7 @@ a:hover {
     cursor: pointer;
     color: #86c2c4;
 }
+
+.highlight-box {
+    text-align: center;
+}
